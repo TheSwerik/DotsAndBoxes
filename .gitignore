@@ -1,7 +1,1 @@
-﻿**/.idea/
-**/bin/
-**/obj/
-*/.idea/
-*/bin/
-*/obj/
-/UI/.idea/
+﻿**/.idea/*
