@@ -4,6 +4,6 @@
         <RootNamespace>DotsAndBoxes</RootNamespace>
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Include="JsConsole" Version="1.0.1"/>
+        <PackageReference Include="JsConsole" Version="1.0.1" />
     </ItemGroup>
 </Project>
