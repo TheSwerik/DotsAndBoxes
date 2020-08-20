@@ -5,6 +5,7 @@
 * delete .git folder
 * delete .img folder
 * delete README.md
+* (remove VCS Root from Rider)
 * Clone [https://github.com/TheSwerik/DotsAndBoxes-API](API) into the API folder
 * Clone [https://github.com/TheSwerik/DotsAndBoxes-UI](UI) into the UI folder
 
