@@ -4,6 +4,12 @@
         <RootNamespace>DotsAndBoxes</RootNamespace>
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Include="JsConsole" Version="1.0.1" />
+        <PackageReference Include="JsConsole" Version="1.0.1"/>
+    </ItemGroup>
+    <ItemGroup>
+        <_ContentIncludedByDefault Remove="Pages\Game\Game.razor"/>
+        <_ContentIncludedByDefault Remove="Pages\Lobby\Lobby.razor"/>
+        <_ContentIncludedByDefault Remove="Pages\Login\Login.razor"/>
+        <_ContentIncludedByDefault Remove="Pages\ServerBrowser\ServerBrowser.razor"/>
     </ItemGroup>
 </Project>
