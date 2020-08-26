@@ -6,8 +6,8 @@
 * delete .img folder
 * delete README.md
 * (remove VCS Root from Rider)
-* Clone [https://github.com/TheSwerik/DotsAndBoxes-API](API) into the API folder
-* Clone [https://github.com/TheSwerik/DotsAndBoxes-UI](UI) into the UI folder
+* Clone [API](https://github.com/TheSwerik/DotsAndBoxes-API) into the API folder
+* Clone [UI](https://github.com/TheSwerik/DotsAndBoxes-UI) into the UI folder
 
 ## Activating hot-reload:
 ### Quick manual
