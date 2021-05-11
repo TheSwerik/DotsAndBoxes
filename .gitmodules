@@ -1,7 +1,7 @@
 [submodule "API"] 
   path = API
-  url = git://github.com/TheSwerik/DotsAndBoxes-API.git
+  url = https://github.com/TheSwerik/DotsAndBoxes-API.git
   
 [submodule "UI"] 
   path = UI
-  url = git://github.com/TheSwerik/DotsAndBoxes-UI.git
+  url = https://github.com/TheSwerik/DotsAndBoxes-UI.git
